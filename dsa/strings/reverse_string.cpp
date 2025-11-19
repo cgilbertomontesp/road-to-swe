@@ -25,7 +25,7 @@ string reverseString(string &s){
 
 int main(){
 
-    string testString = "Hi, I'm a test";
+    string testString = "First test string";
     string reversedString;
     
     reversedString = reverseString(testString);
